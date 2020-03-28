@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  thing1: 
+  thing1: "sproop"
 end
 
 def pioneer
