@@ -2,9 +2,8 @@ def new_hash
   Hash.new
 end
 
-def my_hash {
-  thing1: "sproop"
-}
+def my_hash 
+  hash_boi thing1: "sproop"
 end
 
 def pioneer
