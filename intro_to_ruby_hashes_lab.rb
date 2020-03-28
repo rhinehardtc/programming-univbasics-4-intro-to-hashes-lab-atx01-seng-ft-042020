@@ -3,7 +3,9 @@ def new_hash
 end
 
 def my_hash 
-  hash_boi thing1: "sproop"
+  hash_boi = {
+    thing1: "sproop"
+  }
 end
 
 def pioneer
