@@ -34,7 +34,7 @@ def read_from_hash(hash, key)
     key => hash
   }
   
-  value_hash.key.fetch
+  value_hash.fetch(key)
 end
 
 def update_counting_hash(hash, key)
