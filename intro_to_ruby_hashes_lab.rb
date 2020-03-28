@@ -2,7 +2,7 @@ def new_hash
   Hash.new
 end
 
-def my_hash
+def my_hash {
   thing1: "sproop"
 end
 
