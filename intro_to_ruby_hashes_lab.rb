@@ -4,6 +4,7 @@ end
 
 def my_hash {
   thing1: "sproop"
+}
 end
 
 def pioneer
